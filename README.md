@@ -39,16 +39,23 @@ R2=39 KΩ
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM** 
+  
+<img width="864" height="696" alt="WhatsApp Image 2026-09-14 at 8 15 01 PM" src="https://github.com/user-attachments/assets/4c4a0ffe-028a-486d-b78b-fea38dbff82b" />
 
 
   **MODEL GRAPH:**
+<img width="934" height="505" alt="WhatsApp Image 2026-09-14 at 8 15 29 PM" src="https://github.com/user-attachments/assets/0c0e605b-bd6e-4a21-a5ec-4567fd2da0fb" />
 
 
   **TABULATION:**
- 
+ <img width="975" height="430" alt="WhatsApp Image 2026-09-14 at 8 15 14 PM" src="https://github.com/user-attachments/assets/d41f8e6d-47d5-4102-b6d4-baff8eb1ef70" />
 
-**MODEL CALCULATION:**
+
+**GRAPH:**
+
+<img width="948" height="1280" alt="WhatsApp Image 2026-09-14 at 8 18 32 PM" src="https://github.com/user-attachments/assets/210fb815-df53-43ad-a81d-9cb66006d84e" />
+
 
 
 
